@@ -20,7 +20,6 @@ public class App {
 		Employee emp3 = new Employee(103, "GHI", "98665324");
 
 		try {
-
 			// Insert three data-items
 
 			dao.insert(emp1);
